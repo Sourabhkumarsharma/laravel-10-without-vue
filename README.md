@@ -1,1 +1,1 @@
-# laravel 
+# laravel 10 with out vue
